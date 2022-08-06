@@ -46,7 +46,9 @@ body {
     min-height: 34rem;
 }
 
-
+.logo-instagram {
+    width: 11rem;
+}
 
 .group {
     display: flex;
